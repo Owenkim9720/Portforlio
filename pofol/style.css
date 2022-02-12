@@ -1,0 +1,11 @@
+nav{
+    z-index : 99;
+}
+
+.carousel-item img{
+    height: 80vh;
+}
+
+.fix{
+    width: 65px;
+}
